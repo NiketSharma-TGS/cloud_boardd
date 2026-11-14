@@ -45,3 +45,4 @@
 - Working folder remains E:\CloudBoard; C: is only the earlier backup.
 - At the user's request, enlarged the hero Explore resources and Start a focus session buttons, including label text, padding, click targets, and arrows. Used smaller responsive sizes on phones.
 - Hero-button update: production build and all six homepage/resource desktop/mobile browser checks passed; reviewed the updated desktop screenshot. Publishing through the connected GitHub main branch.
+- Vercel deployment dpl_C5c7ozAaTxJV1RHunGULBgX2Nrco (code commit d0cf752) reached READY. Verified seven public routes, timer start, pop-out, and synchronized pause in Chrome. Verified the enlarged button font sizes on the live desktop/mobile site and no horizontal mobile overflow.
