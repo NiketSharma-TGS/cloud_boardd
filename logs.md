@@ -31,3 +31,10 @@
 - TypeScript/content checks passed. Production build passed with all nine generated pages after rerunning outside the restricted filesystem to resolve a Windows EPERM directory-creation error.
 - All 16 desktop/mobile browser tests passed, including settings validation/persistence/cancel, running refresh recovery, pop-out synchronization and independent operation, elapsed/corrupt state recovery, completion, and blocked-popout fallback. Reviewed full timer screenshots at desktop/mobile sizes.
 - Confirmed supplied GitHub repository is empty. Vercel sign-in completed as `niketsharma-tgs`. Upload and hosting are in progress.
+
+## 2026-11-14 — Project folder correction
+
+- Corrected the working location to the user's assigned E:\CloudBoard folder. Copied source, assets, documentation, tests, and Git history while preserving the existing DesignBoard folder. The earlier C: workspace remains an untouched backup; ongoing work is in E:.
+- Excluded the personal DesignBoard reference folder from Git uploads.
+- Initial site and timer upload completed on GitHub at commit 0888e27. Vercel workspace authorization is pending.
+- Verified the copied E: project with npm ci, content/TypeScript checks, and the full production build; all passed, with zero dependency vulnerabilities reported.

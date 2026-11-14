@@ -8,3 +8,6 @@ test-results/
 !.env.example
 .vercel/
 next-env.d.ts
+
+# Personal mood-board references stay local
+DesignBoard/
