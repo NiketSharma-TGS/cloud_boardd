@@ -70,3 +70,7 @@ Countdown changes are not announced every second by screen readers. Session cont
 ## Later versions
 
 Forms, newsletter, featured resources, trackers, business metrics, and an editing dashboard are intentionally deferred. A future dashboard can replace the content lists with a CMS and file storage while preserving page URLs and components. This is a future integration point, not an implemented backend.
+
+## Current deployment
+
+Primary project folder: E:\CloudBoard. GitHub: https://github.com/NiketSharma-TGS/cloud_boardd (main). Vercel project: cloud-boardd, ID prj_S4LY5TqiViP6TkMRhOjaktNSyqyK, workspace the-glitch-syndicate. Public URL: https://cloud-boardd.vercel.app. The GitHub integration deploys changes pushed to main. Domain selection is deferred. No environment variables are required.

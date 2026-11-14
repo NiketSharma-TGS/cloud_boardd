@@ -38,3 +38,10 @@
 - Excluded the personal DesignBoard reference folder from Git uploads.
 - Initial site and timer upload completed on GitHub at commit 0888e27. Vercel workspace authorization is pending.
 - Verified the copied E: project with npm ci, content/TypeScript checks, and the full production build; all passed, with zero dependency vulnerabilities reported.
+
+## 2026-11-14 — Live deployment and hero button refinement
+
+- Vercel project cloud-boardd is linked to the GitHub repository and deployed successfully from main. Public homepage and focus page returned HTTP 200 without sign-in at https://cloud-boardd.vercel.app.
+- Working folder remains E:\CloudBoard; C: is only the earlier backup.
+- At the user's request, enlarged the hero Explore resources and Start a focus session buttons, including label text, padding, click targets, and arrows. Used smaller responsive sizes on phones.
+- Hero-button update: production build and all six homepage/resource desktop/mobile browser checks passed; reviewed the updated desktop screenshot. Publishing through the connected GitHub main branch.

@@ -28,4 +28,4 @@ npm run test:ui
 
 Browser checks use an already installed Google Chrome; no separate browser download is required. They start a separate preview on port 3100.
 
-Read [architecture.md](architecture.md) for content editing and deployment details. [logs.md](logs.md) records decisions and verification. No publication has been performed.
+Read [architecture.md](architecture.md) for content editing and deployment details. [logs.md](logs.md) records decisions and verification. Live site: https://cloud-boardd.vercel.app. Primary working folder: E:\CloudBoard. Updates to main deploy through the Vercel GitHub integration.
